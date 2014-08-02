@@ -12,9 +12,9 @@ Visualisasi Hasil Pemilu Legislatif (DPR) 2014.
 
 ### Screenshots
 
-![Screenshot-1](images/vizpemilu-1.jpg "Indonesia Parliamentary Election Analysis")
+![Screenshot-1](../images/vizpemilu-1.jpg "Indonesia Parliamentary Election Analysis")
 
-![Screenshot-2](images/vizpemilu-2.jpg "Indonesia Parliamentary Election Analysis")
+![Screenshot-2](../images/vizpemilu-2.jpg "Indonesia Parliamentary Election Analysis")
 
 ### Credits
 
