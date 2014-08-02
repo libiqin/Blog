@@ -6,10 +6,7 @@ category: articles
 tags: [visualization, interactive charts]
 ---
 
-Visualization of Indonesia Parliamentary Election 2014.
-
-
-Visualisasi Hasil Pemilu Legislatif (DPR) 2014.
+Visualization of Indonesia Parliamentary Election 2014. Visualisasi Hasil Pemilu Legislatif (DPR) 2014. Akses: [PemiluViz](http://eueung.github.io/PemiluViz).
 
 ### Screenshots
 

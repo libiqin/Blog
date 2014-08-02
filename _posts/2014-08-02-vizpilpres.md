@@ -6,10 +6,7 @@ category: articles
 tags: [visualization, interactive charts]
 ---
 
-Indonesia Presidential Election 2014 - Visualization.
-
-
-Visualisasi Pemilihan Presiden (Pilpres) Indonesia 2014.
+Indonesia Presidential Election 2014 - Visualization. Visualisasi Pemilihan Presiden (Pilpres) Indonesia 2014. Akses: [viz-pilpres](http://eueung.github.io/viz-pilpres).
 
 ### Screenshots
 
