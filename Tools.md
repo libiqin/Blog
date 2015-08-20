@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /tools.md/
+permalink: /Tools/
 title: Tools 工具集
 tagline: 
 tags: [, ]
