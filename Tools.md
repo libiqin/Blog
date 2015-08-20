@@ -1,14 +1,12 @@
 ---
 layout: page
-permalink: /Tools/
+permalink: /Tools/index.html
 title: Tools 工具集
 tagline: 
-tags: [, ]
-modified: 2015-08-20
 image:
   feature: boglar.jpg
-  credit: Azeril
-  creditlink: http://azeril.me
+  credit:  
+  creditlink:  
 ---
 
 
