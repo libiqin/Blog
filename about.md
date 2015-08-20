@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /about/index.html
+permalink: /About/index.html
 title: About Me
 tagline:   
 image:
-  feature: boglar.jpg  
+  feature:   
   credit: 
   creditlink: 
 ---

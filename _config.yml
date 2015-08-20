@@ -41,9 +41,9 @@ bing_verify:
 # For external links add external: true
 links:
   - title: About
-    url: /about/
+    url: /About/
   - title: Articles
-    url: /articles/
+    url: /Articles/
   - title: Tools
     url: /Tools/
     external: true
