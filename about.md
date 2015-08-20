@@ -2,25 +2,22 @@
 layout: page
 permalink: /about/index.html
 title: About Me
-tagline: 
+tagline:   
 tags: [, ]
 modified: 2015-08-20
 image:
-  feature: boglar.jpg
-  credit: Azeril
-  creditlink: http://azeril.me
+  feature: boglar.jpg  
+  credit: 
+  creditlink: 
 ---
 
-### Who is...Rebecca?
+I'm Rebecca?
 
 ![Me](http://i.imgur.com/goxWOtk.png)
 
+words worlds...This's my first blog.
 
-words worlds...
-
-一字一句皆成一文章
-
-纵横交织便是世界   
+一字一句皆成一文章 纵横交织便是世界   
 
 在那一个个或平行或交错的世界里 
 
