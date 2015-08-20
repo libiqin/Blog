@@ -3,12 +3,12 @@ layout: page
 permalink: /about/index.html
 title: About Me
 tagline: 
-tags: [about, EM, Eueung Mulyana]
+tags: [, ]
 modified: 2015-08-20
 image:
   feature: boglar.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  credit: Azeril
+  creditlink: http://azeril.me
 ---
 
 ### Who is...Rebecca?
