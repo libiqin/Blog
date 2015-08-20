@@ -3,8 +3,6 @@ layout: page
 permalink: /about/index.html
 title: About Me
 tagline:   
-tags: [, ]
-modified: 2015-08-20
 image:
   feature: boglar.jpg  
   credit: 
