@@ -1,10 +1,13 @@
 ---
-layout: post
-title: William Blake - Auguries of Innocence
-categories: [ ]
-tags: [Poem, ]
-description: 花与永恒
+layout: post  
+title: William Blake - Auguries of Innocence  
+description: 花与永恒  
+category: Blog  
+tags: [Poem, ]  
+image:
+  feature: grasshall.jpg
 ---
+
 
 
 威廉·布莱克（William Blake）最知名 也是我所喜欢的一首四行诗：
