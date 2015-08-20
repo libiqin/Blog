@@ -1,10 +1,10 @@
 ---
-layout: page
-permalink: /Tools/index.html
-title: Tools 工具集
+layout: page  
+permalink: /Tools/index.html  
+title: Tools 工具集  
 tagline: 
 image:
-  feature: boglar.jpg
+  feature: boglar.jpg  
   credit:  
   creditlink:  
 ---
