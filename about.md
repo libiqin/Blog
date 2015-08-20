@@ -1,15 +1,30 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About
-tagline: EM Shares and Writings at Github Pages
+title: About Me
+tagline: 
 tags: [about, EM, Eueung Mulyana]
-modified: 1-11-2014
+modified: 2015-08-20
 image:
-  feature: texture-feature-04.jpg
+  feature: boglar.jpg
   credit: Texture Lovers
   creditlink: http://texturelovers.com
 ---
 
-I need a medium to store some sorts of messages, ideas, occasional thoughts, etc. that is easy to maintain and to share, if I want to. This site is all about those things. If you somehow reach this page, hope that some content are useful for you and that you find what you're looking for. Not the case? Just don't expect too much :-D ..
+### Who is...Rebecca?
+
+![Me](http://i.imgur.com/goxWOtk.png)
+
+
+words worlds...
+
+一字一句皆成一文章
+
+纵横交织便是世界   
+
+在那一个个或平行或交错的世界里 
+
+一步一步走下来
+
+-- Rebecca
 

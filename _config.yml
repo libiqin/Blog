@@ -1,26 +1,35 @@
-title:            EM-Sharing-@-GHPages
+title:            Words Worlds 琴之音
 tagline:          A temporary tagline
-description:      Eueung Mulyana at Github-Pages.
+description:      "一沙一世界 一叶一天堂"
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 #url:              http://localhost:4000
-url:              http://eueung.github.io
+url:              http://biqin.me
 
 # Owner/author information
 owner:
-  name:           Eueung Mulyana
-  avatar:         em.jpg
-  bio:            "Engineer. Analyst. Full-Stack Techno Enthusiast. ITB, Bandung."
-  email:          eueung@gmail.com
+  name:           Recebba Lee
+  avatar:         Rebecca.jpg
+  bio:            "Love all，trust a few，do wrong to none."
+  email:          rebeccabsfu20@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        eueung
+  twitter:        Rebecca
   facebook:       
-  github:         eueung
-  linkedin:       eueung
-  instagram:      
-  lastfm:         
-  tumblr:         
+  github:         libiqin
+  linkedin:       Rebecca  
+  linkedin: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+       
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    http://google.com/+EueungMulyana
+
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-53198604-3
@@ -35,12 +44,12 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
-  - title: Speakerdeck
-    url: https://speakerdeck.com/eueung
+  - title: 
+    url: https://speakerdeck.com/
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Jakarta
+timezone:    Asia/Beijing
 future:      true
 pygments:    true
 markdown:    kramdown
