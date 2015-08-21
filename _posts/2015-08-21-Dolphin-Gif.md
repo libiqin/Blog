@@ -2,7 +2,7 @@
 layout: post  
 title: The Dolphins  
 description: Just to see it    
-category: blog  
+category: [blog, ]  
 tags: [Animal, ]  
 image:
   feature: Dolphin.jpg
