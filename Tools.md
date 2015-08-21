@@ -10,8 +10,9 @@ image:
 ---
 
 
+## Writing Model
 
-
+[StartWriting.md](http://biqin.me/StartWriting/)
 
 ### Rule
 
