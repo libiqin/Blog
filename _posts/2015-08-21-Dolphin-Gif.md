@@ -1,7 +1,7 @@
 ---
 layout: post  
 title: Dolphin  
-description:   
+description: the Dolphins  
 category: Blog  
 tags: [, ]  
 image:  
