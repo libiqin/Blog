@@ -1,12 +1,14 @@
 ---
 layout: post  
-title: Dolphin  
-description: the Dolphins  
-category: Blog  
-tags: [, ]  
-image:  
+title: The Dolphins  
+description: Just to see it    
+category: blog  
+tags: [Animal, ]  
+image:
   feature: Dolphin.jpg
 ---
+
+
 
 Haha
 

@@ -1,9 +1,9 @@
 ---
-layout: post
-title: 关于语言
-categories: [ ]
-tags: [Life, ]
-description: 有趣的语言
+layout: post  
+title: 关于语言  
+categories: blog  
+tags: [Life, ]  
+description: 有趣的语言  
 ---
 ### Part I
 
