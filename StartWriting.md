@@ -1,8 +1,8 @@
 ---
-layout: page
-permalink: /StartWrting/index.html  
-title: Start Writing
-tagline:   
+layout: post  
+permalink: /StartWrting/    
+title: Start Writing  
+tagline:    
 image:
   feature: Dolphin.jpg  
   credit: Azeril
