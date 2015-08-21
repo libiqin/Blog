@@ -4,15 +4,11 @@ permalink: /Tools/index.html
 title: Tools 工具集  
 tagline: 
 image:
-  feature: boglar.jpg  
-  credit:  
-  creditlink:  
+  feature: Dolphin.jpg   
+  credit:  Azeril
+  creditlink: http://azeril.me
 ---
 
-
-## Writing Model
-
-[StartWriting.md](http://biqin.me/StartWriting/)
 
 ### Rule
 
@@ -35,11 +31,9 @@ image:
 ### Service 
 [Dropbox](https://www.dropbox.com/)  Offline version：[Download](https://www.dropbox.com/downloading?plat=mac&full=1)  
 
-[Imgur](http://imgur.com/)  
+[Imgur](http://imgur.com/)  图床
 
-[Photobucket](photobucket.com)
-
-
+[Photobucket](photobucket.com)  图床
 
 [Evernote](https://www.evernote.com/)  
 
