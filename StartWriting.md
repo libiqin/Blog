@@ -1,11 +1,25 @@
 ---
-layout: post  
-title:     
-description:     
-category: [blog, ]  
-tags: [, ]  
+layout: page
+permalink: /StartWrting/index.html  
+title: Start Writing
+tagline:   
 image:
-  feature: Dolphin.jpg
+  feature: Dolphin.jpg  
+  credit: Azeril
+  creditlink: http://azeril.me
 ---
 
-Start writing....
+
+
+
+    ---
+    layout: post  
+    title:     
+    description:     
+    category: [blog, ]  
+    tags: [, ]  
+    image:
+      feature: Dolphin.jpg
+    ---
+
+    Start writing....
