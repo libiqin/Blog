@@ -1,7 +1,7 @@
 
 ---
 layout: post  
-title: Acknowledgements/致谢    
+title: Acknowledgements    
 description: 感谢你 让我开始纪念生活    
 category: [blog,]  
 tags: [thanks,beginning]  
