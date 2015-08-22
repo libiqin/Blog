@@ -3,13 +3,13 @@
 layout: post  
 title: Acknowledgements/致谢    
 description: 感谢你 让我开始纪念生活    
-category: [blog, acknowledgements]  
+category: [blog,]  
 tags: [thanks,beginning]  
 image:
   feature: loving-kitten.jpg
 ---
 
-<html>
+
 
 <h2>Acknowledgements/致谢</h2>
 
@@ -22,5 +22,3 @@ image:
 Thanks！
 
 Rebecca
-
-</html> 
