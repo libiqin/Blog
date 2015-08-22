@@ -1,14 +1,12 @@
-
 ---
 layout: post  
-title: Acknowledgements    
-description: 感谢你 让我开始纪念生活    
-category: [blog,]  
-tags: [thanks,beginning]  
+title:   Acknowledgements/致谢  
+description:  感谢你 让我开始纪念生活   
+category: [blog, ]  
+tags: [ thanks, ]  
 image:
-  feature: loving-kitten.jpeg
+  feature: Dolphin.jpg
 ---
-
 
 
 ##Acknowledgements/致谢
