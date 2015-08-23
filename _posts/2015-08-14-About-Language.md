@@ -3,9 +3,9 @@ layout: post
 title: 语言拾趣  
 categories: blog  
 tags: [Life, ]  
-description:  Having Fun Learning, Speaking and Listening & Cooooding 
+description:  Having Fun Learning, Speaking, Listening and Reading & Cooooding 
 ---
-<h3 style="color: sienna; font-family: Quaver">Part I</h3>
+<h3 style="color: sienna">Part I</h3>
 
 一向对口音敏感，今天走在路上 听到一串非常悦耳的卡斯蒂利亚口音的西班牙语「类似于英语中的伦敦腔」。望过去 一位中国妇人和旁边的姑娘说「他说丝绸什么的 哪里有卖」 因为听说过以「Silk Market」闻名于世的秀水街  我就走过去接了句话⋯  
 
@@ -17,7 +17,7 @@ description:  Having Fun Learning, Speaking and Listening & Cooooding
 
 麻麻的语言风格就是简练啊…
 
-<h3 style="color: sienna; font-family: Quaver">Part II</h3>
+<h3 style="color: sienna">Part II</h3>
 
 吃饭时 邻座是外国人 和服务员沟通得很痛苦。帮他点完菜 等菜过程中 知道他是丹麦来的 我说了句那是童话的故乡啊 然后他很惊讶「你去过丹麦？」 我说去过意法 没能去丹麦 离欧洲主体部分远了点 。 
 
@@ -33,7 +33,7 @@ description:  Having Fun Learning, Speaking and Listening & Cooooding
 
 我说是啊 就是不一定拿这门语言就业 「想起了冰岛语的例子」  嗯 以上说这么多 只是再想说 北外就是这样 「人民需要我们到哪里 我们就到哪里 」。
 
-<div style="font-family: Ariel; background-color: Whitesmoke">
+<div style="background-color: Whitesmoke">
 
 <h3 style="color: sienna"> 番外: </h2>
  
