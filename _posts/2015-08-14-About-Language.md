@@ -9,6 +9,7 @@ description:  Having Fun Learning, Speaking and Listening & Cooooding
 
 一向对口音敏感，今天走在路上 听到一串非常悦耳的卡斯蒂利亚口音的西班牙语「类似于英语中的伦敦腔」。望过去 一位中国妇人和旁边的姑娘说「他说丝绸什么的 哪里有卖」 因为听说过以「Silk Market」闻名于世的秀水街  我就走过去接了句话⋯  
 
+
 结果西班牙大叔很能聊 中国妇人「他俩应该是couple？」又很能翻 于是他们知道了我的学校和二外  开始跟我聊语言⋯ 于是我知道了 Bonjour其实只是「早上好」而不能用作「你好」？听我说到「再次近距离听到这么流畅的西班牙语 想要重新捡起西语的时候 」 
 大叔说「你想学西语 就和西班牙人在一起啊」然后拍了拍他儿子⋯ 那位帅小伙才15，这位papá 是想怎样啊⋯⋯ 我想以比较不正式的「chao」代替「adiós 」结束对话的时候  大叔又很Nice地帮我重温意大利语「Ciao」既代表你好 也代表再见这一习惯… 想起原来认识的热情的意大利伙伴在见面和离开的时候都「Ciao」好多遍… 回过头来 我问老妈 不懂这些语言，听我们这样聊天会不会很无聊 她说不会…  觉得挺好玩的 「嗯 因为有很称职的翻译在」。
 
@@ -32,7 +33,7 @@ description:  Having Fun Learning, Speaking and Listening & Cooooding
 
 我说是啊 就是不一定拿这门语言就业 「想起了冰岛语的例子」  嗯 以上说这么多 只是再想说 北外就是这样 「人民需要我们到哪里 我们就到哪里 」。
 
-<div style="font-family: Ostrich Sans; background-color: Whitesmoke">
+<div style="font-family: Ariel; background-color: Whitesmoke">
 
 <h3 style="color: sienna"> 番外: </h2>
  <p> 被赶鸭子上架 开始协助工程师大哥测试网站流程的时候 看着系统里简陋的RAW HTML窗口, 受不了它的纯文字显示,开始自己学习HTML的语法来编辑部分信息 改变前端的展示内容. 突然想起刚到公司的时候，一个妹子问我 你学什么语言的 我说 “英语 二外西语”  她愣了一下，接着说 她在学「Python」 打算学「Processing」... 瞬间凌乱. </p>
