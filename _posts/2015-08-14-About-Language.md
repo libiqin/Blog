@@ -5,7 +5,7 @@ categories: blog
 tags: [Life, ]  
 description:  Having Fun Learning, Speaking and Listening & Cooooding 
 ---
-<h2 style="background-color: cornsilk; color: sienna; font-family: Quaver"> Part I </h2>
+<h2 style="color: sienna; font-family: Quaver"> Part I </h2>
 
 一向对口音敏感，今天走在路上 听到一串非常悦耳的卡斯蒂利亚口音的西班牙语「类似于英语中的伦敦腔」。望过去 一位中国妇人和旁边的姑娘说「他说丝绸什么的 哪里有卖」 因为听说过以「Silk Market」闻名于世的秀水街  我就走过去接了句话⋯  
 
@@ -16,7 +16,7 @@ description:  Having Fun Learning, Speaking and Listening & Cooooding
 
 麻麻的语言风格就是简练啊…
 
-<h2 style="background-color: cornsilk; color: sienna; font-family: Quaver">Part II</h2>
+<h2 style="color: sienna; font-family: Quaver">Part II</h2>
 
 吃饭时 邻座是外国人 和服务员沟通得很痛苦。帮他点完菜 等菜过程中 知道他是丹麦来的 我说了句那是童话的故乡啊 然后他很惊讶「你去过丹麦？」 我说去过意法 没能去丹麦 离欧洲主体部分远了点 。 
 
@@ -34,7 +34,7 @@ description:  Having Fun Learning, Speaking and Listening & Cooooding
 
 <div style="font-family: Ostrich Sans; background-color: Whitesmoke">
 
-<h2 style="background-color: cornsilk; color: sienna"> 番外: </h2>
+<h2 style="color: sienna"> 番外: </h2>
  <p> 被赶鸭子上架 开始协助工程师大哥测试网站流程的时候 看着系统里简陋的RAW HTML窗口, 受不了它的纯文字显示,开始自己学习HTML的语法来编辑部分信息 改变前端的展示内容. 突然想起刚到公司的时候，一个妹子问我 你学什么语言的 我说 “英语 二外西语”  她愣了一下，接着说 她在学「Python」 打算学「Processing」... 瞬间凌乱. </p>
  
  <p>  想起来,在来北京之前,一直不太玩得转word,给的图标和选择太多,一项功能总要找好久. 任务到了,让用Markdown整理一份文件的时候,才开始下载和使用这个轻量级文本编辑器(后来用 Macdown)  使用中,只需要记住规则 通过键盘上一些特殊符号,实现字体大小,加粗加黑等功能.  但是,虽然在左侧编辑页面, 各类不同规则下,字是会有颜色变化的. 它的最终呈现 却永远是白纸黑字. .. 最近学了HTML语法之后 终于找到了变化之道 虽然语法麻烦了一点点 但写起来还是蛮有意思的...</p>
