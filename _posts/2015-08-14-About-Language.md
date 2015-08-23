@@ -33,7 +33,7 @@ description:  Having Fun Learning, Speaking, Listening and Reading & Cooooding
 
 我说是啊 就是不一定拿这门语言就业 「想起了冰岛语的例子」  嗯 以上说这么多 只是再想说 北外就是这样 「人民需要我们到哪里 我们就到哪里 」。
 
-<div style="background-color: Whitesmoke">
+
 
 <h3 style="color: sienna"> 番外: </h2>
  
@@ -42,7 +42,7 @@ description:  Having Fun Learning, Speaking, Listening and Reading & Cooooding
 <p>  想起来,在来北京之前,一直不太玩得转word,给的图标和选择太多,一项功能总要找好久. 任务到了,让用Markdown整理一份文件的时候,才开始下载和使用这个轻量级文本编辑器(后来用 Macdown)  使用中,只需要记住规则 通过键盘上一些特殊符号,实现字体大小,加粗加黑等功能.  但是,虽然在左侧编辑页面, 各类不同规则下,字是会有颜色变化的. 它的最终呈现 却永远是白纸黑字. .. 最近学了HTML语法之后 终于找到了变化之道 虽然语法麻烦了一点点 但写起来还是蛮有意思的...</p>
  
 <p>按照规则,自己学着创造一些东西的感觉,也是非常不错的~ 也开始对语言和语法,有了些新的想法.</p>
- </div>
+
   
 
 
