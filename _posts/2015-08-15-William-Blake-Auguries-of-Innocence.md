@@ -2,7 +2,7 @@
 layout: post  
 title: William Blake - Auguries of Innocence  
 description: 花与永恒  
-category: blog  
+category: [blog, ]   
 tags: [Poem, ]  
 image:
   feature: boglar.jpg

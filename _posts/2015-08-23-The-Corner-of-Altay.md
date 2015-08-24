@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: 「阿勒泰的角落」
+title: 阿勒泰的角落
 description: 遥远的地方和风景 并不陌生的心情    
 category: [blog, ]  
 tags: [reading ]  
