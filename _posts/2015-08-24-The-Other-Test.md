@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: 「Test：蔚蓝」
+title: Test：蔚蓝
 description: 蔚蓝，喜欢    
 category: [blog, ]  
 tags: [reading, ]  
