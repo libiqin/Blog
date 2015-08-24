@@ -5,7 +5,7 @@ description:  感谢你 让我开始纪念生活
 category: [blog, ]  
 tags: [, ]  
 image:
-  feature: kitten.jpg
+  feature: Cat.jpg
 ---
 
 
