@@ -1,12 +1,12 @@
 ---
 layout: page
-permalink: /About/index.html
+permalink: /About/index.html  
 title: About Me
 tagline:   
 image:
-  feature:   
-  credit: 
-  creditlink: 
+  feature: wallhaven.jpg  
+  credit:  
+  creditlink:  
 ---
 
 I'm Rebecca?
