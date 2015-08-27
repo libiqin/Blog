@@ -71,12 +71,13 @@ kramdown:
     coderay_bold_every: 10
     coderay_css: class
 
-defaults: 
-  -
-image:
-  feature: myanmar.jpg  
-  credit: Azeril
-  creditlink: http://azeril.me      
+# Comments 
+comments :
+  provider : duoshuo
+  duoshuo :
+    short_name : biqin
+  disqus :
+      short_name : biqin      
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]

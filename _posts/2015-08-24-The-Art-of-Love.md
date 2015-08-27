@@ -5,7 +5,7 @@ description: 爱的本质是创造和培养
 category: [blog, ]  
 tags: [reading,thinking ]  
 image:
-  feature: 
+  feature: line.jpg
 ---
 
 看了「愛的藝術」這本書，以下為摘錄部份。有的道理，是懂的，再看到，仍旧引发思考。摘錄出來的筆記，經過一定整理和編排，儘可能地以一種有序連貫的方式呈現，不過，想要有更深入的思考，請看原書。
