@@ -11,7 +11,7 @@ image:
 
 关于爱情，最动人之处 就在你经意不经意间，就望向TA
 
-![Damon & Elena ](http://fmn.rrimg.com/fmn066/20130712/0945/original_Vs8d_7f7d000136c3125d.gif)
+![Damon](http://fmn.rrimg.com/fmn066/20130712/0945/original_Vs8d_7f7d000136c3125d.gif)
 
 You don't have to dance with me    
 
