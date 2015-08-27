@@ -44,17 +44,6 @@
 <!-- ds-share -->
 
                 <!-- Duoshuo Share start -->
-                <style>
-                    .ds-share{
-                        text-align: right;
-                    }
-                    
-                    @media only screen and (max-width: 700px) {
-                        .ds-share {
-
-                        }
-                    }
-                </style>
 
 <div class="ds-share flat" 
     data-thread-key="{{page.id}}" data-title="{{page.title}}" data-images="{{ site.url }}/{% if page.images %}{{ page.images }}{% else %}{{ site.images }}{% endif %}" data-content="{{ content | strip_html | truncate:80 }} | Words worlds:Rebecca's blog" data-url="{{site.url}}{{page.url}}">
