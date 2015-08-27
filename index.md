@@ -1,9 +1,9 @@
 ---
 layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
+description: "..."
 tags: [Blog, ]
 image:
-  feature: Dolphin.jpg
-  credit: 
-  creditlink: 
+  feature: myanmar.jpg  
+  credit: Azeril
+  creditlink: http://azeril.me  
 ---
