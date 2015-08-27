@@ -5,6 +5,6 @@ title: Articles
 tagline: A List of Posts
 image:
   feature: light.jpg  
-  credit:  
-  creditlink: 
+  credit:  Azeril
+  creditlink: http://azeril.me
 ---
