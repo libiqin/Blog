@@ -3,7 +3,7 @@ layout: post
 title:     你來人間一趟 你要看看太陽
 description:     就讓心永不倦憊，永不疏離，永不後悔
 category: [blog, ]  
-tags: [views,books ]  
+tags: [Views,Books ]  
 image:
   feature: wallhaven.jpg
 ---
