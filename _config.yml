@@ -44,8 +44,8 @@ links:
     url: /About/
   - title: Articles
     url: /Articles/
-  - title: Tools
-    url: /Tools/
+  - title: Tags
+    url: /Tags/
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
