@@ -3,7 +3,7 @@ layout: post
 title: The Dolphins  
 description: Just to see it    
 category: [blog, ]  
-tags: [Animal, ]  
+tags: [GIF, ]  
 image:
   feature: Dolphin.jpg
 ---

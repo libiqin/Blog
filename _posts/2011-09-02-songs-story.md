@@ -3,7 +3,7 @@ layout: post
 title:     一首简单的歌
 description:  现在看看 当年这么玩儿确实是「少年不识愁滋味 为赋新词强说愁」   
 category: [blog, ]  
-tags: [songs, ]  
+tags: [Life, ]  
 image:
   feature: sea.jpg
 ---

@@ -3,7 +3,7 @@ layout: post
 title:   爱的艺术  
 description: 爱的本质是创造和培养    
 category: [blog, ]  
-tags: [reading,thinking ]  
+tags: [Books,]  
 image:
   feature: line.jpg
 ---

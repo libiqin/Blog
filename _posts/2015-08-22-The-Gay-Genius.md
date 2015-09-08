@@ -3,7 +3,7 @@ layout: post
 title: 读「苏东坡传」 
 description: 多情应笑我 早生华发 人生如梦 一樽还酹江月   
 category: [blog]  
-tags: [reading]  
+tags: [Books]  
 image:
   feature:  sushi.jpg
 ---

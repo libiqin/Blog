@@ -2,7 +2,7 @@
 layout: post  
 title: 语言拾趣  
 categories: blog  
-tags: [Life, ]  
+tags: [Language, ]  
 description:  Having Fun Learning, Speaking, Listening and Reading & Cooooding 
 ---
 <h3 style="color: sienna">Part I</h3>
