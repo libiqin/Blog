@@ -1,10 +1,10 @@
 ---
 layout: page  
-permalink: /Tags/index.html  
-title: "Tags"  
-tagline: "博客标签库"
+permalink: /Tags/   
+title: Tags    
+tagline: 博客标签库
 image:
-  feature: "img/line.jpg"   
+  feature: line.jpg    
   credit:  Azeril
   creditlink: http://azeril.me
 ---
