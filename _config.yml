@@ -73,11 +73,11 @@ kramdown:
 
 # Comments 
 comments :
-  provider : duoshuo
+  provider : disqus
   duoshuo :
     short_name : biqin
   disqus :
-      short_name : biqin      
+      short_name : Rebecca_Li
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
