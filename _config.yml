@@ -73,7 +73,7 @@ kramdown:
 
 # Comments 
 comments :
-  provider : disqus
+  provider : duoshuo
   duoshuo :
     short_name : biqin
   disqus :
