@@ -42,9 +42,12 @@ image:
 --博尔赫斯《雨》
 
 ## **芒果街上的小屋**
-### The House on Mango Street
+
+### Sandra Cisneros - *The House on Mango Street*
 
 ![mangogirl](/images/mango2.jpg)
+
+## 书摘
 
 ### La Casa en Mango Street
 可是芒果街上的小屋全然不是他们讲的那样它很小，是红色的，门前一方窄台阶，窗户小得让你觉得它们像是在屏着呼吸几处墙砖蚀成了粉。前门那么鼓，你要用力推才进得来。这里没有前院，只有四棵市政栽在路边的小榆树。屋后有个小车库，是用来装我们还没买的小汽车的，还有个小院子，夹在两边的楼中间，越发显得小了。
