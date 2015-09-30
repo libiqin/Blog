@@ -1,42 +1,42 @@
 ---
 layout: post  
-title:     ¡Hola！ Las Niñas
-description:   La Casa en Mango Street  
+title: ¡Hola！Las Niñas
+description: La Casa en Mango Street  
 category: [blog, ]  
 tags: [Books, ]  
 image:
-  feature: boglar.jpg
+  feature: mango.jpg
 ---
 
-突然间黄昏变得明亮
+	突然间黄昏变得明亮
 
-因为此刻正有细雨在落下。
+	因为此刻正有细雨在落下。
 
-或曾经落下。下雨
+	或曾经落下。下雨
 
-无疑是在过去发生的一件事。
-
-
-谁听见雨落下，谁就回想起
-
-那个时候，幸福的命运向他呈现了
-
-一朵叫做玫瑰的花
-
-和它奇妙的、鲜红的色彩。
+	无疑是在过去发生的一件事。
 
 
-这蒙住了窗玻璃的细雨
+	谁听见雨落下，谁就回想起
 
-必将在被遗弃的郊外
+	那个时候，幸福的命运向他呈现了
 
-在某个不复存在的庭院里洗亮
+	一朵叫做玫瑰的花
 
-架上的黑葡萄
+	和它奇妙的、鲜红的色彩。
 
-......
 
---博尔赫斯《雨》
+	这蒙住了窗玻璃的细雨
+
+	必将在被遗弃的郊外
+
+	在某个不复存在的庭院里洗亮
+
+	架上的黑葡萄
+
+	......
+
+	--博尔赫斯《雨》
 
 
 ##La Casa en Mango Street
