@@ -31,7 +31,7 @@ There was a pause. I was still scared by every gap in our conversation, fearing 
 Sometimes desire is air; sometimes desire is liquid. And every now and then, when everything else is air and liquid, desire solidifies, and the body is the magnet that draws its weight.
 
 * basis, n.
-* 
+
 There has to be a moment at the beginning when you wonder whether you’re in love with the person or in love with the feeling of love itself.
 If the moment doesn’t pass, that’s it —– you’re done.
 And if the moment does pass, it never goes that far. It stands in the distance, ready for whenever you want it back. Sometimes it’s even there when you thought you were searching for something else, like an escape route, or your lover’s face.
