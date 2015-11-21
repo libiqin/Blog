@@ -1,7 +1,7 @@
 ---
 layout: post  
 title:      亲爱的安德烈
-description:     爱的时候，不说也看得出来？
+description:     爱的时候，不说也看得出来
 category: [blog, ]  
 tags: [Books, ]  
 image:
