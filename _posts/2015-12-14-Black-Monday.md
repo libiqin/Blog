@@ -1,6 +1,12 @@
-##Black Monday
-
-还记得那个把人生比作一场把工作、家庭、健康、朋友和心灵五个球掷于空中，保持其永远在空中不着地的状态. Four of them are made of glass, easily broken and highly unrecoverable. 
+---
+layout: post  
+title:     Black Monday
+description:     还记得有人把人生比作一场把工作、家庭、健康、朋友和心灵五个球掷于空中，保持其永远在空中不着地的状态. Four of them are made of glass, easily broken and highly unrecoverable. 
+category: [blog, ]  
+tags: [, ]  
+image:
+  feature: sea.jpg 
+---
 
 连续几天睡不好，早上 June 说我昨天看起来就不是很有精神的样子，我说那现在呢？又听到不太出乎意外的「好像还是不太好」。
 
