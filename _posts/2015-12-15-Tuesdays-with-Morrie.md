@@ -6,6 +6,8 @@ category: [blog, ]
 tags: [Books, ]  
 image:
   feature: wallhaven.jpg  
+  credit: 
+  creditlink: 
   
 ---
 
