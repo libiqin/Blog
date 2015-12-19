@@ -1,7 +1,7 @@
 ---
 layout: post  
 title:     相约星期二
-description:     "We must love one another, or die." 相爱或者死亡。
+description:     "We must love one another, or die." 
 category: [blog, ]  
 tags: [Books, ]  
 image:
