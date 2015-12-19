@@ -5,7 +5,7 @@ description:     "We must love one another, or die." 相爱或者死亡，又或
 category: [blog, ]  
 tags: [Books, ]  
 image:
-  feature: wallhaven.jpg
+  feature: Cat.jpg
   credit:   
   creditlink:   
 ---
