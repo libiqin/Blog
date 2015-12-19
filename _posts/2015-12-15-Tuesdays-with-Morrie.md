@@ -1,17 +1,14 @@
 ---
 layout: post  
-title:   相约星期二  
-description:    "We must love one another, or die." 相爱或者死亡，又或者，更加明确，更为 decisive 的说法是「不相爱，毋宁死」。
+title:     相约星期二
+description:     "We must love one another, or die." 相爱或者死亡，又或者，更加明确，更为 decisive 的说法是「不相爱，毋宁死」。
 category: [blog, ]  
 tags: [Books, ]  
 image:
-  feature: wallhaven.jpg  
-  credit: 
-  creditlink: 
-  
+  feature: wallhaven.jpg
+  credit:   
+  creditlink:   
 ---
-
-"We must love one another, or die." 相爱或者死亡，又或者，更加明确，更为 decisive 的说法是「不相爱，毋宁死」。
 
 这本书非常动人，又非常 thought-provoking，recommended by someone special, came at a special moment in my life. 
 
@@ -66,4 +63,5 @@ image:
 “死亡终结了生命，但没有终结感情的联系。”
 
 *** 
+
 可是，还是会希望爱的人，能够陪伴我们久一些，再久一些。让爱的施与和接受，都更从容一些。
