@@ -15,13 +15,20 @@ image:
 
 
 ###北外
-北外，是我和老爸从西站下车后到达的第一站。Beijing Foreign Studies University，简称 BFSU，也作 Being Forever Structuring University「永建大学」. 
+北外，是我和老爸从西站下车后到达的第一站。Beijing Foreign Studies University，简称 BFSU，也作 Being Forever Structuring University「永建大学」。
 
 说它永建，是因为入校的时候，就有好多工地，而且一直有工地。校园中央被围起的那块地，后来成了最有特色的图书馆，图书馆正式开馆的前一天，我去到了深圳，开始步入工作，当时始终觉得遗憾，而后回校，也都愿意进去看一看。
+
+之前看到过很多北外的照片，喜欢的便都保存下来，时间久了，许多照片的来源也就都忘了，如果恰巧被它们的主人看到，可以及时联系我修改。
+
+<center>学校大门 by Wen Bin </center>
+![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451366659.jpeg)
 
 <center>下图来源不明</center>
 <img src="http://7xp8y1.com1.z0.glb.clouddn.com/Library.jpg">
 
+<center>图书馆一角  by Esperanza </center>
+![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451366834.jpeg)
 
 又比如，宿舍又被围起来翻修了；又如，挺好的一座红楼，后来被扒了外墙，换成了灰色，被称作「灰楼」或「青楼」；再如，毕业后的两年里，图书馆门前，有了一个小池子，白天晚上，常有人坐在旁边的长凳上；西院新建了一座综合大楼，和校门和旁边的外研社颜色极为和谐。
 
