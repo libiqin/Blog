@@ -1,3 +1,13 @@
+---
+layout: post  
+title:   那些曾经到过的地方——郴州篇
+description:    惊觉照片少
+category: [blog, ]  
+tags: [Memo, Photos]  
+image:
+  feature: map.jpg
+---
+
 那些到过的地方——郴州篇
 
 郴州是故乡，生于斯，长于斯。年及十七，才头一回要坐了火车离开家。
