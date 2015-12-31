@@ -1,12 +1,12 @@
-----
- -layout: post  
- -title:   那些曾经到过的地方——郴州篇
- -description:    惊觉照片少
- -category: [blog, ]  
- -tags: [Memo, Photos]  
- -image:
- -  feature: map.jpg
- ----
+---
+layout: post  
+title:   那些到过的地方——郴州篇
+description:    惊觉照片少
+category: [blog, ]  
+tags: [Memo, Photos]  
+image:
+  feature: map.jpg
+---
 
 郴州是故乡，生于斯，长于斯。年及十七，才头一回要坐了火车离开家。
 
@@ -16,7 +16,6 @@
 
 <center>少有人走的路 @高倚岭<center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451347520.jpeg)
-
 
 <center>桃之夭夭 @邻居家门前<center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451347488.jpeg)
@@ -48,4 +47,4 @@
 <center> 宁静的栖息地 @故乡 <center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451398272.jpeg)
 
-以上，2015年，照片摄于郴州。
+以上，2015年，照片摄于郴州，整理于北京。
