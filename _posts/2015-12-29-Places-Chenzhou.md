@@ -47,4 +47,6 @@ image:
 <center> 宁静的栖息地 @故乡 <center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451398272.jpeg)
 
+![](http://dreamofbook.qiniudn.com/BeckyWithFlowers.jpg)
+
 以上，2015年，照片摄于郴州，整理于北京。
