@@ -156,19 +156,19 @@ image:
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451629901.jpeg)
 
 
-很赞同「有鹿来」里，作者对于京都态度的描述，确实，京都的小店、食物、生活各方面，比起别处都要精致。
-
-<center> 食物集锦 </center>
-![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451346926.jpeg)
+很赞同「有鹿来」里作者对于京都态度的描述，确实，京都的小店、食物、生活各方面，比起别处都要精致许多吧。
 
 <center> 工作餐 @ Hitachi </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451626768.jpeg)
 
-<center> @ </center>
+<center> 嗷 零食 @ 路边小店 </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_5654.JPG)
 
 <center> 换酒换杯 == 这里有多少种酒啊 </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_6036.JPG)
+
+<center> 食物集锦 </center>
+![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451346926.jpeg)
 
 最后是~
 <center> 那些植物们 @ 日本 </center>
