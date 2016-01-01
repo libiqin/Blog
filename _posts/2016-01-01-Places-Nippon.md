@@ -14,7 +14,7 @@ image:
 
 于是，日本之行也便从京都开始写。即使，那并不是第一站；即使，在那里只待了一天。「谢谢Kristina 的游记，让我很方便地找到当时的一些走过的地方 照片也从你那儿取了很多，还记得那时候，我们总是因为停下来拍照而落到大部队后面，之后一路狂奔追赶，又不自觉地停下。」
 
-<center> 启程 @ HK Airport </center>
+<center> 启程 @ HK Airport By Lee </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451626521.jpeg)
 
 对，其实我们先去了福冈，然后是小仓工厂。
@@ -73,7 +73,7 @@ image:
 <center> @ 估计在途中 日本的乡下？ </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_5302.JPG)
 
-<center> @东京駅 </center>
+<center> @东京駅 By Lee </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451627028.jpeg)
 
 后来有买一张带有小兰和新一站在东京駅前的鼠标垫。看了那么久的动漫，看到是满满的亲切。「龙猫」里的某个场景，有在途中看到非常类似的风景，没来得及抓拍下，一直遗憾。
@@ -86,7 +86,7 @@ image:
 <center> 一个很喜欢的庭院 @ where？ </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_4817.JPG)
 
-<center> 远观富士山 </center>
+<center> 远观富士山 By Kristina </center>
 
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_5290.JPG)
 
@@ -103,7 +103,7 @@ image:
 <center> 登山小火车 @ 富士山 </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451625031.jpeg)
 
-<center> @ 五合目 </center>
+<center> @ 五合目 By Lee？ </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451625581.jpeg)
 
 <center> 五合目的云海 @ 富士山上  </center>
