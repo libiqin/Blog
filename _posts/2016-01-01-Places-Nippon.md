@@ -1,6 +1,6 @@
 ---
 layout: post  
-title:   那些曾经到过的地方——日本篇
+title:   那些到过的地方——日本篇
 description:    「花儿与少年」+老板和客户一行，日本出差「暴走」12天
 category: [blog, ]  
 tags: [Memo, Photos]  
