@@ -1,6 +1,6 @@
 ---
 layout: post  
-title:   那些曾经到过的地方——北京篇
+title:   那些到过的地方——北京篇
 description:    整理起来最顺手的，果然还是北京啊
 category: [blog, ]  
 tags: [Memo, Photos]  
