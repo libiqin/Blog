@@ -27,17 +27,21 @@ image:
 
 <center> 咦 远处有雪山？ </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_5308.JPG)
+
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_5309.JPG)
 
 <center> 小河弯弯 灯火闪亮 @住处楼下 深港之交 </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_5269.JPG)
+
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451399110.jpeg)
 
 <center> Book Store & Cafe @ 万象城 </center>
 I read because one life is just not enough for me.
 
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451354114.jpeg)
+
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451354130.jpeg)
+
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451355832.jpeg)
 
 <center> 各种主题装扮 @ 万象城 </center>
@@ -58,6 +62,7 @@ I read because one life is just not enough for me.
 
 <center> Sunset @ 深圳湾 </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451347662.jpeg)
+
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451348611.jpeg)
 
 <center> Sunset @ 莲花山 </center>
@@ -94,9 +99,10 @@ I read because one life is just not enough for me.
 
 <center> 就是喜欢看不清脸的照片 by Kristina </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_5267.JPG)
+
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_5268.JPG)
 
-其实，我一直是个很宅的人，却在深圳认识了一群很可爱的人，平日里拽着我一起出去吹吹风，吃吃东西。「我离开的时候，大家和我说，要保「重」啊，不能被北京的沙尘暴和大风刮跑」。
+其实，我一直是个很宅的人，却在深圳认识了一群很可爱的人，平日里拽着我一起出去吹吹风，吃吃东西。「我离开的时候，大家和我说，要保「重」啊，不能被北京的沙尘暴和大风刮跑」 ==。
 
 所以，接下来上吃的。
 <center> 离开前的发现 @ 罗湖某居酒屋 </center>
@@ -110,6 +116,7 @@ I read because one life is just not enough for me.
 
 <center>  最常吃的 @ 江南味道 万象城店 </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451616396.jpeg)
+
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451616390.jpeg)
 
 Memories linger. 
