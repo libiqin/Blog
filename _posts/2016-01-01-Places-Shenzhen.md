@@ -80,7 +80,7 @@ I read because one life is just not enough for me.
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451352092.jpeg)
 
 <center> 日暮乡关 烟波江上 Leiya家远眺所得 @ Leanin SZ 聚会</center>
-![](http://7xp8y1.com1.z0.glb.clouddn.com/ WeChat_1451615522.jpeg)
+![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451615522.jpeg)
 
 <center> 已看晕... @ 深圳机场</center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_5314.JPG)
