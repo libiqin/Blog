@@ -37,6 +37,7 @@ image:
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451346548.jpeg)
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451346582.jpeg)
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451346650.jpeg)
+![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_1005.JPG)
 
 <center> 快要下雨的风景 @路口 </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451397697.jpeg)
