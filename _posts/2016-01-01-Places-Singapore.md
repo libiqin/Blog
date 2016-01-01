@@ -51,12 +51,13 @@ image:
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451634573.jpeg)
 
 最喜欢的，其实还是那里的室外。
-<center> @ </center>
+
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_1822.JPG)
 
 <center> 帅哥和松鼠 「原题」 @ Shangri-La By Lee </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451637057.jpeg)
 
+<center> 和人共进早餐的松鼠 @ 一楼 </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_5324.JPG)
 「上面两张图重点是松鼠~ 」是啊，这里就是就像是花园一样~
 
@@ -130,3 +131,4 @@ image:
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451638540.jpeg)
 
 
+Good old time. 
