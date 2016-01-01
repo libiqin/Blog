@@ -81,6 +81,8 @@ image:
 <center> @ 东京 日本皇宫一角 </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451346971.jpeg)
 
+![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_5271.JPG)
+
 看起来好朴素~
 
 <center> 一个很喜欢的庭院 @ where？ </center>
