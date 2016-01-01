@@ -1,6 +1,6 @@
 ---
 layout: post  
-title:   那些曾经到过的地方——狮城篇
+title:   那些到过的地方——狮城篇
 description:    How many times have I been there? A beautiful city.
 category: [blog, ]  
 tags: [Memo, Photos]  
