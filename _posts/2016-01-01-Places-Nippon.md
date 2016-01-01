@@ -140,9 +140,6 @@ image:
 <center> 继续生鱼片 入口即化的肉类 感觉很奇妙 </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_5300.JPG)
 
-<center> 精美的菜单 @ where？ </center>
-![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_5299.JPG)
-
 <center> 传说中的怀石料理 其中某一道菜 @ 山の茶屋  </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_5297.JPG)
 
@@ -161,14 +158,18 @@ image:
 <center> 工作餐 @ Hitachi </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451626768.jpeg)
 
-<center> 嗷 零食 @ 路边小店 </center>
-![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_5654.JPG)
-
 <center> 换酒换杯 == 这里有多少种酒啊 </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_6036.JPG)
 
 <center> 食物集锦 </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451346926.jpeg)
+
+<center> 嗷 零食乱入了 @ 路边小店 </center>
+![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_5654.JPG)
+
+还有~
+<center> 精美的菜单 @ where？ </center>
+![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_5299.JPG)
 
 最后是~
 <center> 那些植物们 @ 日本 </center>
