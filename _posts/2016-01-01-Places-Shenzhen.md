@@ -1,4 +1,12 @@
-那些到过的地方——港深篇
+---
+layout: post  
+title:   那些到过的地方——深圳篇
+description:    one year and eight months there
+category: [blog, ]  
+tags: [Memo, Photos]  
+image:
+  feature: map.jpg
+---
 
 大学毕业，就去了深圳。当时回忆起找工作的这段经历，关于深圳，尘埃落定以后，写下的是「存疑千里走单骑，不破深圳终不还」。
 
