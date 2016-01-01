@@ -1,6 +1,6 @@
 ---
 layout: post  
-title:   那些到过的地方——深圳篇
+title:   那些到过的地方——港深篇
 description:    One year and eight months there
 category: [blog, ]  
 tags: [Memo, Photos]  
@@ -95,6 +95,9 @@ I read because one life is just not enough for me.
 
 <center> 节日的灯火 @ around 兰桂坊 by Lee </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451614408.jpeg)
+
+<center> 港深校友会启动 @ 深圳 by Lee </center>
+![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451618536.jpeg)
 
 
 <center> 就是喜欢看不清脸的照片 by Kristina </center>
