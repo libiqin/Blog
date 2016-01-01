@@ -1,7 +1,7 @@
 ---
 layout: post  
 title:   那些到过的地方——深圳篇
-description:    one year and eight months there
+description:    One year and eight months there
 category: [blog, ]  
 tags: [Memo, Photos]  
 image:
