@@ -96,7 +96,7 @@ I read because one life is just not enough for me.
 <center> 节日的灯火 @ around 兰桂坊 by Lee </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451614408.jpeg)
 
-<center> 港深校友会启动 @ 深圳 by Lee </center>
+<center> 港深校友会启动 @ 深圳  </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451618536.jpeg)
 
 
