@@ -73,9 +73,6 @@ This Part I missed.
 <center> 街头的艺术 </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_2350.JPG)
 
-<center> @ 惬意的午后 </center>
-![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_2350.JPG)
-
 <center> @ 一家好吃的马卡龙店 精致的栏杆~ 寻常人家也有 </center>
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/IMG_2416.JPG)
 
