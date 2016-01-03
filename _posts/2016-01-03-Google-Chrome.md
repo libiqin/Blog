@@ -12,7 +12,7 @@ image:
 * 排除：关键词 -不想要的 eg：电脑 -联想
 * 多重搜索： K1 or K2 
 * 类别搜索 filetype:pdf/txt...
-* 模糊搜索 ”key*“ 
+* 模糊搜索 “key*"
 * 特定网易的搜索 site:XXX.com  keywords
 * 算术：数字 运算符号
 
