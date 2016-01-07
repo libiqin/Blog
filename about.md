@@ -11,7 +11,7 @@ image:
 
 I'm Rebecca?
 
-![Me](http://i.imgur.com/goxWOtk.png)
+![Me](http://7xp8y1.com1.z0.glb.clouddn.com/Rebecca.png)
 
 words worlds...This's my first blog.
 
