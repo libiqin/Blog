@@ -20,7 +20,7 @@ image:
 
 但一次又一次并非本意地带人跌入深坑，耗时耗力，让人觉得心累，感觉屡教不改。原因无它，也就是上面的懒惰、无知、不聪明，还有，应该就是积习难改，改变速度没有跟上来。
 
-今天早上朋友推荐的一篇文章，里面说到「迟钝，既不美，也不善」，以为然。我看到作者另一篇文章里一个很有趣的题目「The curse of the gifted」，里面有这样一段话 「We learned the hard way that the bill always comes due -- the scale of the problems always increases to a point where your native talent alone doesn't cut it any more.  The smarter you are, the longer it takes to hit that crunch point -- and the harder the adjustment when you finally do.  And we can see that *you*, poor damn genius that you are, are cruising for a serious bruising」。
+今天早上朋友推荐的一篇文章，里面说到「迟钝，既不美，也不善」，以为然。我看到作者另一篇文章，题目很有趣「The curse of the gifted」，里面有这样一段话 「We learned the hard way that the bill always comes due -- the scale of the problems always increases to a point where your native talent alone doesn't cut it any more.  The smarter you are, the longer it takes to hit that crunch point -- and the harder the adjustment when you finally do.  And we can see that *you*, poor damn genius that you are, are cruising for a serious bruising」。
 
 我自然不是 talented nor genius，却也陷入那样一个怪圈。文中说到 「It's a common trap」, and I guess I have not learned how to study yet. 
 
@@ -32,7 +32,7 @@ image:
 
 认真想想，我做了许许多多令人费解的事情，也都非出于本心。出于无知，很多事情意识不到其重要性；出于懒惰，许多该留下记录的东西也都放任其过去，当然，这和之前对自己记忆力的错误估计也有关系；而所有这些，到后来也就导致了自己和他人一系列的麻烦，虽然不是出自主观意愿，却也是害人害己。「凡事预则立，不预则废」，这是很久前看过的一句话，但我，或许始终没有抓住它的精神实质。想来，不管是自己的事情，还是涉及他人的工作，自己事先有所准备，才能有更好的效果。通畅的沟通，也万万不能少。
 
-今晨，老板发来信息询问日程和车票事宜，告知了他解决方法，并提醒他改签后通知我，我去做下一步安排。分了两句话发出，受到误解。转念一想，其间的逻辑关系在我看来不言自明，在他人看来，却或许已经是另一层意思。
+今晨，老板发来信息询问日程和车票事宜，告知了他解决方法，并提醒他改签后通知我，我去做下一步安排。分了两句话发出，引起一场误会。转念一想，其间的逻辑关系在我看来不言自明，在他人看来，却或许已经是另一层意思。
 
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1452313335.jpeg)
 
@@ -40,7 +40,7 @@ image:
 
 关于我语言的含糊性，其实早有感悟。作为日常聊天中的 natural flow，我是觉得大部分时候，说话双方是能够理解对方的所言。但实际情况是，需要我们一步到位，从别人的角度出发，而非主观臆断，乃至期盼对方能够仅凭一两个聊天过程中用过的词汇，想到你所有的联想。比如，若我能在日常对话里，打起十二分精神，用平日里记录文档的 precision & consideration，那造成的误解要少得多。
 
-也不是说在工作中还完全没养成好的习惯，也不是语言和文字表达确实有多差，会议备忘，说不上是老板客气，还是确实写得还不错，每几次里也都会有一两次受到表扬。之前和第三方机构联系，处理一件比较棘手的问题，在我看来已经应该有流程中的规范文档，也是在我反复提问中，对方给了我一份不甚明确地还含有错别字的 Word 文件，当然，这也说明之前我的问题并不齐备，提问或许也不到点上。针对文件，考虑到那以外可能碰到的问题，我进行了新一轮提问，开始自己组织语言修改文档，而后与之确认。后来那位姑娘和我说，你工作好认真哦。当然，这其间，如此往复，时间也是耗费了不少。
+会议备忘，说不上是老板客气，还是确实写得还不错，每几次里也都会有一两次受到表扬。之前和第三方机构联系，处理一件比较棘手的问题，在我看来已经应该有流程中的规范文档，也是在我反复提问中，对方给了我一份不甚明确地还含有错别字的 Word 文件，当然，这也说明之前我的问题并不齐备，提问或许也不到点上。针对文件，考虑到那以外可能碰到的问题，我进行了新一轮提问，开始自己组织语言修改文档，而后与之确认。后来那位姑娘和我说，你工作好认真哦。当然，这其间，如此往复，时间也是耗费了不少。所以，也不能说在工作中还完全没养成好的习惯，也不是语言和文字表达确实有多差，但目前看来，总还是问题重重。
 
 所以，说回到提问这门技术活儿。今天一大早 收到链接 [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)，按图索骥去找了它的source，也就是这篇文章 [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html) by Eric Steven Raymond
 
@@ -53,6 +53,7 @@ image:
    * 自己尝试、验证
    * ask more skilled personnel
    * 检查源码 用一些诊断程序进行检测
+   
 2. 提问时
    * 选择正确的论坛 和水平等级 （这句用于论坛提问，以下的提问 不仅在技术中，其实也适用于生活其他方面）
    * 描述准确 「目标与差异」式的描述
@@ -118,6 +119,7 @@ Never assume you are entitled to an answer. You will earn an answer, if you earn
 On the other hand, making it clear that you are able and willing to help in the process of developing the solution is a very good start. “Would someone provide a pointer?”, “What is my example missing?”, and “What site should I have checked?” are more likely to get answered than “Please post the exact procedure I should use.” because you're making it clear that you're truly willing to complete the process if someone can just point you in the right direction.
 
 ##When You Ask
+
 ###Choose your forum carefully
 
 Not to do:
@@ -143,6 +145,7 @@ questions to a well-selected public forum are more likely to get useful answers 
 Understandably, skilled hackers and authors of popular software are already receiving more than their fair share of mis-targeted messages. By adding to the flood, you could in extreme cases even be the straw that breaks the camel's back — quite a few times, contributors to popular projects have withdrawn their support because collateral damage in the form of useless e-mail traffic to their personal accounts became unbearable.
 
 ##Stack Overflow
+
 ###Search, then ask on Stack Exchange
 Start with a Google search before looking at Stack Exchange; 
 
@@ -241,6 +244,7 @@ The clues most useful in figuring out something that went wrong often lie in the
 people who need technical help have a high-level goal in mind and get stuck on what they think is one particular path towards the goal. They come for help with the step, but don't realize that the path is wrong. It can take substantial effort to get past this.
 
 ###Don't ask people to reply by private e-mail
+
 ###Be explicit about your question
 You are more likely to get a useful response if you are explicit about what you want respondents to do (provide pointers, send code, check your patch, whatever). This will focus their effort and implicitly put an upper bound on the time and energy a respondent must allocate to helping you. This is good.
 
@@ -280,6 +284,7 @@ Last, and not least, this sort of followup helps everybody who assisted feel a s
 Among hackers, this sort of good followup behavior is actually more important than conventional politeness. It's how you get a reputation for playing well with others, which can be a very valuable asset.
 
 ##How To Interpret Answers
+
 ###RTFM and STFW: How To Tell You've Seriously Screwed Up
 You shouldn't be offended by this; by hacker standards, your respondent is showing you a rough kind of respect simply by not ignoring you. You should instead be thankful for this grandmotherly kindness.
 
@@ -290,6 +295,7 @@ If you don't understand the answer, do not immediately bounce back a demand for 
 it's the product of the direct, cut-through-the-bullshit communications style that is natural to people who are more concerned about solving problems than making others feel warm and fuzzy.
 
 ##On Not Reacting Like A Loser
+
 ##Questions Not To Ask
 
 Here are some classic stupid questions, and what hackers are thinking when they don't answer them.
@@ -336,7 +342,7 @@ Evelyn Mitchell contributed some example stupid questions and inspired the “Ho
 
 ***
 
-My Personal Acknowledgements to the one who hasn't give up on me.
+My personal acknowledgements to the one who hasn't give up on me yet.
 
 Best,
 
