@@ -26,9 +26,9 @@ image:
 
 
 ><center> 
->
+
 >Never seek to tell thy love,
-> 
+>
 > Love that never told can be;
 > 
 > For the gentle wind doth move
@@ -54,7 +54,7 @@ image:
 > Silently, invisibly:
 > 
 > He took her with a sigh.
-> </center>
+> 
 
 
 Quote from <a href= "http://www.online-literature.com" class = "dir" title = "Literature Network">Literature Network</a><b> &raquo; </b><a href = "http://www.online-literature.com/blake/" class = "dir" title = "William Blake">William Blake</a><b> &raquo; </b><a href = "http://www.online-literature.com/blake/621/" class = "dir" title = "Love's Secret">Love's Secret</a> 
