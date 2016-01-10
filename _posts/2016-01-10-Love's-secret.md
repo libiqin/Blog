@@ -20,13 +20,14 @@ image:
 比如以下，是很久前看过的一首诗及其翻译。
 
 
-
 <center>Love's Secret</center>
 
-<p align=“right”>—William Blake</p>
+<center>—William Blake</center>
 
 
-><center> Never seek to tell thy love,
+><center> 
+>
+>Never seek to tell thy love,
 > 
 > Love that never told can be;
 > 
@@ -52,8 +53,8 @@ image:
 > 
 > Silently, invisibly:
 > 
-> He took her with a sigh.</center>
-> 
+> He took her with a sigh.
+> </center>
 
 
 Quote from <a href= "http://www.online-literature.com" class = "dir" title = "Literature Network">Literature Network</a><b> &raquo; </b><a href = "http://www.online-literature.com/blake/" class = "dir" title = "William Blake">William Blake</a><b> &raquo; </b><a href = "http://www.online-literature.com/blake/621/" class = "dir" title = "Love's Secret">Love's Secret</a> 
@@ -89,4 +90,4 @@ Quote from <a href= "http://www.online-literature.com" class = "dir" title = "Li
 
 个人而言，由于长久以来喜欢古诗词的韵味，自是喜欢后者，颇有意境且读来朗朗上口，尤其前两句话「君莫诉衷情，衷情不能诉」，几年前偶然看过的，记至今日。
 
-英文，感觉又放下好久了，是时候做点什么了。
+英文，感觉又放下好久了。
