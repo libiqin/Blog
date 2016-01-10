@@ -33,7 +33,7 @@ Quote from 阿勒泰的角落
 
 回来的路上，收到原来支教时带过的孩子一条信息，「我想你一定还在忙，所以只要看到前面三个字就好」，不由得心下一动。
 
-Forget-me-not，forget me not.
+Forget-me-not, forget me not.
 
 
 
