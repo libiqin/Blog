@@ -105,7 +105,11 @@ image:
 > it will be in your arms without leaving mine. 
 > 
 
-如果你忘记我 聂鲁达
+***
+
+###<center>如果你忘记我</center> 
+
+#####<center> 聂鲁达</center> 
 
 > 希望你知道
 > 
