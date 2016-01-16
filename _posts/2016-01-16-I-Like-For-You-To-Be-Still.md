@@ -13,7 +13,9 @@ image:
 这是一首很喜欢的诗，正好看到，也把它整理过来
 
 ###<center>我喜欢你是寂静的</center>
+
 #####<center>聂鲁达</center>
+
 >
 > 我喜欢你是寂静的，仿佛你消失了一样，
 >
@@ -60,12 +62,15 @@ image:
 > 彼时，一个字，一个微笑，已经足够。
 >
 > 而我会觉得幸福，因那不是真的而觉得幸福。
+> 
 >（李宗荣 译）
 
 ***
 
 英文版：
+
 ###<center>I Like For You To Be Still</center>
+
 > I like for you to be still
 >
 > It is as though you are absent
@@ -77,6 +82,7 @@ image:
 > It seems as though your eyes had flown away
 >
 > And it seems that a kiss had sealed your mouth
+
 >
 > As all things are filled with my soul
 >
@@ -89,6 +95,7 @@ image:
 > A butterfly of dream
 >
 > And you are like the word: Melancholy
+
 >
 > I like for you to be still
 >
@@ -101,6 +108,7 @@ image:
 > And you hear me from far away
 >
 > And my voice does not reach you
+
 >
 > Let me come to be still in your >
 > silence
@@ -118,6 +126,7 @@ image:
 > Your silence is that of a star
 >
 > As remote and candid
+
 >
 > I like for you to be still
 >
