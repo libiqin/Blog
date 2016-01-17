@@ -94,8 +94,8 @@ Quote from <a href= "http://www.online-literature.com" class = "dir" title = "Li
 
 而英文，感觉又放下好久了。
 
-***
-
 当时有位老师，以及一本书上序言里都有打趣道「那些有能力的，在做翻译；不能翻的，教翻译；不能教翻译的，教翻译理论」。（Just kidding）
 
 很快，我连翻译理论，都说不出来了...
+
+***
