@@ -20,9 +20,9 @@ image:
 比如以下，是很久前看过的一首诗及其翻译。
 
 
-<center>Love's Secret</center>
+###<center>Love's Secret</center>
 
-<center>—William Blake</center>
+#####<center>—William Blake</center>
 
 
 
