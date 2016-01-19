@@ -71,4 +71,6 @@ image:
 
 时光静好，与君语；细水流年，与君同；繁华落尽，与君老。
 
-如此便好。
+如此甚好。
+
+![](http://7xp8y1.com1.z0.glb.clouddn.com/pkrumwth.jpg)
