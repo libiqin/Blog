@@ -48,7 +48,7 @@ image:
 
 上次看过 [How to Ask Questions The Smart Way](http://biqin.me/blog/How-To-Ask-Questions-The-Smart-Way/)，才明白技术或其他诸多方面，遇到问题要怎样解决，怎样提问。想想自己很多时候，拿到软件，并不去看使用说明，帮助文档，只用其最基本一眼便能明白的功能。电脑里装上 Calibre，算起来也得半年了吧，上周末，才想着开始研究它，也是那时才发现它的强大。
 
-我的不思考，让我把很多复杂的东西看得简单了。有的时候，那是一种好的特质，但更多的时候里，它只带来无知。最近细翻了几篇博文，一篇篇讲的都是日常生活里，被我完全忽略的东西。我有想过他们的不便利性，却忘了，不是所有人都像我这么懒于改进现状。There is always a better solution out there, waiting to be unveiled by someone. If there isn't, create one or find someone to do that.
+我的不思考，让我把很多复杂的东西看得简单了。有的时候，那是一种好的特质，但更多的时候里，它只带来无知。最近细翻了几篇博文，一篇篇讲的都是日常生活里，被我完全忽略的东西。我有想过他们的不便利性，却忘了，不是所有人都像我这么懒于改进现状。There is always a better solution out there, waiting to be unveiled by someone. If there isn't, create one or find someone to do that. 
 
 有的时候，答案只在几个关键词，和几次点击之后，然后就会有一步步的操作，我，究竟在等什么呢？
 
@@ -57,4 +57,5 @@ image:
 ——「始终不聪明」by 浅白色
 
 我，是否已经过度理解自己，过度坦然了？
+
 
