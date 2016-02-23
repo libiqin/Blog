@@ -1,6 +1,6 @@
 ---
 layout: post  
-title:     中西名剧清单
+title:     中西戏剧清单
 description:      初作尝试
 category: [blog, ]  
 tags: [Plays, ]  
