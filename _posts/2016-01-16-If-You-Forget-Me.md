@@ -19,9 +19,9 @@ image:
 今天，就来看看他这比武器还有力，还深沉的诗歌吧。而配上这段朗诵，听似云淡风轻，但句句入心。[If You Forget Me (Pablo Neruda read by Madonna) - YouTube](https://www.youtube.com/watch?v=T5yADgMzGJo) 
 
 
-### <center> If You Forget Me </center> 
+### <center>If You Forget Me </center> 
 
-##### <center> －－Pablo Neruda</center> 
+##### <center>－－Pablo Neruda</center> 
 
 
 >  I want you to know one thing
