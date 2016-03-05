@@ -12,9 +12,9 @@ image:
 
 这是一首很喜欢的诗，正好看到，也把它整理过来
 
-###<center>我喜欢你是寂静的</center>
+### <center>我喜欢你是寂静的</center>
 
-#####<center>聂鲁达</center>
+##### <center>聂鲁达</center>
 
 >
 > 我喜欢你是寂静的，仿佛你消失了一样，
