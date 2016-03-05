@@ -20,9 +20,9 @@ image:
 比如以下，是很久前看过的一首诗及其翻译。
 
 
-###<center>Love's Secret</center>
+### <center>Love's Secret</center>
 
-#####<center>—William Blake</center>
+##### <center>—William Blake</center>
 
 
 
@@ -63,7 +63,7 @@ Quote from <a href= "http://www.online-literature.com" class = "dir" title = "Li
 
 这首诗的翻译，当时看过两种版本。
 
-###[朱光潜](https://www.wikiwand.com/zh-sg/%E6%9C%B1%E5%85%89%E6%BD%9C) 译诗
+### [朱光潜](https://www.wikiwand.com/zh-sg/%E6%9C%B1%E5%85%89%E6%BD%9C) 译诗
 
 （一）切莫告诉你的爱情，爱情是永远不可以告诉的，因为她像微风一样，不做声不做气地吹着。 
 
@@ -72,7 +72,7 @@ Quote from <a href= "http://www.online-literature.com" class = "dir" title = "Li
 （三）她离我去了，不多时一个过客来了。 
 不做声不做气地，只微叹一声，便把她带去了。
 
-###[李敖](https://www.wikiwand.com/zh-sg/%E6%9D%8E%E6%95%96) 译诗
+### [李敖](https://www.wikiwand.com/zh-sg/%E6%9D%8E%E6%95%96) 译诗
 
 君莫诉衷情，衷情不能诉。微风拂面来，寂寂如重雾。
 
