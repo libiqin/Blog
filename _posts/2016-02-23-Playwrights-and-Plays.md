@@ -172,6 +172,23 @@ image:
 他对语言的运用影响了现代英语。
 He was not of an age, but for all time! 他不属于一个时代，而是属于所有的时代!
 
+### [克里斯托弗·马洛](https://en.wikiquote.org/wiki/Christopher_Marlowe)「1564-1593」
+
+#### 作品
+
+* 「Tamburlaine the Great」
+* 「The Tragical History of Doctor Faustus」
+* 「The Jew of Malta」
+* 「Edward II」
+
+诗歌
+
+* 「Hero and Leander」
+* 「The Passionate Shepherd to His Love」
+* 「Nature」
+
+Visit [Christopher Marlowe - Biography and Works. Search Texts, Read Online. Discuss.](http://www.online-literature.com/marlowe/)
+
 ### [本·琼森](https://zh.wikipedia.org/wiki/%E6%9C%AC%C2%B7%E7%90%BC%E6%A3%AE)「1572年－1637年」
 
 关于其人：英格兰文艺复兴剧作家、诗人和演员。
