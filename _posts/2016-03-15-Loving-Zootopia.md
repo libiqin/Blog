@@ -89,15 +89,17 @@ He confessed. 他说出过往满怀希望和憧憬，要正直、勇敢、真诚
 
 兔子意识到自己的话语不仅让朋友远离，「Zootopia」 这座本来一切皆有可能的城市里，也开始更多的喧嚣，更多防备，更多距离。她伤心请辞，回到家乡，回到大家原本期待她成为的「carrot farmer」的角色。但她无精打采，这不是她想要的生活。却又在无意间想通了 predators go crazy 的原因。
 
-急忙驱车回到动物城，她先去找到 Nick，满心欢喜地告诉他，食肉者不会变野蛮，只是由于植物性毒素，不用担心。整座城市，也不用继续混乱下去。看着 Nick 的背影和冷淡回应，她终于忍不住大哭，抹着眼泪、哽咽着艰难地说完长长一段话「you can hate me, and that'll be fine, because I was a horrible friend, and I hurt you. And you can walk away knowing you were right all along. I really am just a dumb bunny」，你可以恨我，没有关系，我是个很糟糕的朋友，我伤害了你。你可以离开我，确信你一直以来是对的。我真的只是只笨兔子。
+急忙驱车回到动物城，她先去找到 Nick，满心欢喜地告诉他，食肉者不会变野蛮，只是由于植物性毒素，不用担心。整座城市，也不用继续混乱下去。看着 Nick 的背影和冷淡回应，她终于忍不住大哭，抹着眼泪、哽咽着艰难地说完长长一段话「you can hate me, and that'll be fine, because I was a horrible friend, and I hurt you. And you can walk away knowing you were right all along. I really am just a dumb bunny」，你可以恨我，没有关系，我是个很糟糕的朋友，我伤害了你。你可以离开我，确信你一直以来是对的。*我真的只是只笨兔子。*
 
-她耳朵耷拉着，大大的眼睛里满是泪，楚楚可怜。我也止不住眼泪。是啊，真是只笨兔子。好想摸摸你的头，给你个拥抱。当然，不用等我。这只号称史上最会撩妹的狐狸先生已经向她张开怀抱，满是宠溺「All right, get in here. [hugs Judy] You bunnies，so emotional，好了好了，来我这儿吧。[抱着 Judy] 你们兔子啊，就是情绪化」。我也是想到这里，才发现还真是只骄傲的狐狸，竟然没有主动过去抱人家！
+她耳朵耷拉着，大大的眼睛里满是泪，楚楚可怜。我也止不住眼泪。是啊，真是只笨兔子。好想摸摸你的头，给你个拥抱。当然，不用等我。这只号称史上最会撩妹的狐狸先生已经向她张开怀抱，满是宠溺「All right, get in here. [hugs Judy] You bunnies，so emotional，好了好了，来我这儿吧。[抱着 Judy] 你们兔子啊，就是情绪化」。我也是想到这里，才发现这还真是只骄傲的狐狸，竟然没有主动过去抱人家！
 
 ![](https://mmbiz.qlogo.cn/mmbiz/4C6k8vspyvx4rMhEpic4SoYFGRKGXBLpEKBwmiaLaicziaX9b6zBsIImkrpEqvNFuDch4bzrgc6mWJlk6ZNE9QaIDw/0?wx_fmt=jpeg)
 
-承认错误，袒露伤痕，表白情感，在我看来确实是更需要勇气的事情。这意味着，we care and love each other. 而且，不知道对方将如何回应——会给你一个温暖拥抱，还是转身离开。毕竟，是不同的人啊，求同存异，其实也没有想象中简单；和而不同，也只是想望。
+承认错误，袒露伤痕，表白情感，在我看来确实是更需要勇气的事情。这意味着，we care and love each other. 而且，不知道对方将如何回应——会给你一个温暖拥抱，还是转身离开。
 
-都说陪伴是最长情的告白。回到陪伴上。Nick 后来成为了 Judy 的好搭档。执行任务的路上，他们有了一段对话。
+毕竟，是不同的人啊，求同存异，其实也没有想象中简单；和而不同，或许也只是想望。
+
+都说陪伴是最长情的告白，回到陪伴上。Nick 后来成为了 Judy 的好搭档。执行任务的路上，他们有了一段对话。
 
 	- Sly Bunny. 
 	- Dumb Fox.
@@ -111,6 +113,7 @@ He confessed. 他说出过往满怀希望和憧憬，要正直、勇敢、真诚
 	 是。是的，我爱你。
 
 我又蠢又不可靠，还固执得不得了。
+
 我狡猾，欺骗，不在乎。
 
 但是，遇到了你，我愿意也正在变成更好的人/狐狸/兔子。
