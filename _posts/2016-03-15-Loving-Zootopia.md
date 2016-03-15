@@ -1,7 +1,7 @@
 ---
 layout: post  
-title:     笑与泪 梦与真
-description:     影评，兼谈坚持、爱情与其它
+title:       笑与泪 梦与真
+description:       影评，兼谈坚持、爱情与其它
 category: [blog, ]  
 tags: [ Movies, ]  
 image:
@@ -34,25 +34,25 @@ Judy 终于以优秀毕业生毕业，成为了第一位小型食草动物警察
 
 很喜欢这部电影的主题曲 [Try Everything (From "Zootopia")-Shakira](http://www.xiami.com/play?ids=/song/playlist/id/1775480928/object_name/default/object_id/0#loaded)
 
-    I messed up tonight
-    
-     I lost another fight
-    
-    I still mess up but I'll just start again
-    
-    I keep falling down I keep on hitting the ground
-    
-    I always get up now to see what's next
-    
-    Birds don't just fly they fall down and get up
-    
-    Nobody learns without getting it won
-    
-    I won't give up no I won't give in
-    
-    Til I reach the end and then I'll start again
-    
-    No I won't leave I wanna try everything
+      I messed up tonight
+      
+      I lost another fight
+      
+      I still mess up but I'll just start again
+      
+      I keep falling down I keep on hitting the ground
+      
+      I always get up now to see what's next
+      
+      Birds don't just fly they fall down and get up
+      
+      Nobody learns without getting it won
+      
+      I won't give up no I won't give in
+      
+      Til I reach the end and then I'll start again
+      
+      No I won't leave I wanna try everything
 
 
 ### 兔小姐和狐先生
