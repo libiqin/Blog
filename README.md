@@ -19,5 +19,4 @@ and so on.
 ## Just write
 
 Start writing now！
-# Reading-Thinking
-# Reading-Thinking
+
