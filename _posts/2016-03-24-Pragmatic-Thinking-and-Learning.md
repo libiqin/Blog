@@ -1,4 +1,3 @@
-
 ---
 layout: post  
 title:     程序员思维修炼
