@@ -1,16 +1,28 @@
 ---
 layout: post  
-title:     程序员思维修炼
-description:     认知潜能开发
+title:      程序员的思维修炼
+description:     开发认知潜能
 category: [blog, ]  
 tags: [Books, ]  
 image:
-  feature: Map.jpg
+  feature: map.jpg
   credit: 
   creditlink:   
 ---
 
+详细版可见这里：
 
+* C1 [绪论](https://github.com/libiqin/Reading-Thinking/wiki/C1-Introduction)
+* C2 [从新手到专家](https://github.com/libiqin/Reading-Thinking/wiki/C2-Beginner-to-Expert)
+* C3 [认识你的大脑](https://github.com/libiqin/Reading-Thinking/wiki/C3-Know-Your-Brain)
+* C4 [利用右脑](https://github.com/libiqin/Reading-Thinking/wiki/C4-Use-R-Mode)
+* C5 [调试大脑](https://github.com/libiqin/Reading-Thinking/wiki/C5-Debug-Your-Brain)
+* C6 [主动学习](https://github.com/libiqin/Reading-Thinking/wiki/C6-To-Learn-Actively)
+* C7 [积累经验](https://github.com/libiqin/Reading-Thinking/wiki/C7-Accumulate-Experience)
+* C8 [控制注意力](https://github.com/libiqin/Reading-Thinking/wiki/C8-Control-Your-Attention)
+* C9 [超越专家](https://github.com/libiqin/Reading-Thinking/wiki/C9-Expert-and-Beyond)
+
+# 大纲列表：
 
 ## C1 绪论
 
