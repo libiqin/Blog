@@ -25,8 +25,6 @@ image:
 ##### <center>—William Blake</center>
 
 
-
-
 > Never seek to tell thy love,
 >
 > Love that never told can be;

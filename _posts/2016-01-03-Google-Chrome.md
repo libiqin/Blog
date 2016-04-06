@@ -8,7 +8,7 @@ image:
   feature: boglar.jpg
 ---
 
-###搜索
+### 搜索
 * 排除：关键词 -不想要的 eg：电脑 -联想
 * 多重搜索： K1 or K2 
 * 类别搜索 filetype:pdf/txt...
@@ -18,10 +18,10 @@ image:
 
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451803744.jpeg)
 
-####自定义搜索引擎
+#### 自定义搜索引擎
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451803972.jpeg)
 
-###Chrome 使用快捷键
+### Chrome 使用快捷键
 ![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1451804980.jpeg)
 
 ### Extensions

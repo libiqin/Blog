@@ -13,21 +13,21 @@ image:
 这个故事 在我的印象里 它算是起承转合都有了 也算个完整的故事了吧... 照旧是非常松散的结构，只是写着玩儿」
  
 
-##正文:
+## 正文:
 
 这世界很复杂 混淆我想说的话 我不懂太复杂的玩法   
 这一首简单的歌 并没有什么独特 好像我 那么的平凡却又深刻                
 
 这首歌唱给一个人,歌声代替语言   
  
-###缘不知所起:
+###  缘不知所起:
 单身的我 原本以为可以一辈子不跟谁  
  
 只因为在人群中多看了你一眼,再也无法忘记你容颜  
  
 若一开始没有上帝暗中偷偷地怂恿，我们怎知选择相逢。你是心中的日月，落在这里。旅程的前后多余，只为遇到你。  
 
-###幸福的预兆:
+###  ### 幸福的预兆:
 幸福开始有预兆,缘分让我们慢慢紧靠,然后孤单被吞没了 无聊变得有话聊 有变化了.
  
 终于做了这个决定，别人怎么说 我不理，只要你也一样的肯定
@@ -46,7 +46,7 @@ You're my sunshine, my only sunshine. You make me happy when skies are grey. You
                               
  
  
-###爱的警告:
+### 爱的警告:
 如果我的坚强任性 会不小心伤害了你
 你能不能温柔提醒 我虽然心太急 更害怕错过你 
   
@@ -94,7 +94,7 @@ You're my sunshine, my only sunshine. You make me happy when skies are grey. You
 她: 若注定有一点苦楚 不如自己亲手割破 
 
  
-###街角的祝福:            
+### 街角的祝福:            
  
 
 The other night, dear, when I was sleeping, I dreamed I held you in my arms. When I awoke, dear, I was mistaken, so I held my head and cried....       
@@ -119,7 +119,7 @@ The other night, dear, when I was sleeping, I dreamed I held you in my arms. Whe
 
 ***
 
-####文中涉及的歌曲：
+#### 文中涉及的歌曲：
 
 <一首简单的歌> 王力宏 
  
