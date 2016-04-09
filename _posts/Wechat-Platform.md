@@ -36,14 +36,14 @@ image:
 # 基础知识：
 
 1. 点击链接 [立即注册微信公众号](https://mp.weixin.qq.com/)。 按步骤进行吧，只是注意「类型选择」中，个人一般会选择「订阅号」。公司的话，如果是提供资讯类，常发图文消息，选择「订阅号」，消息发布后，进入读者微信里的「订阅消息」，不单独提示。选择服务号，一个月四条消息，群发消息时，用户会收到消息提示。如下是官方网站上几种类型的区别。
-
-  ![](https://mmbiz.qlogo.cn/mmbiz/4C6k8vspyvzMUPVmOwvSfyeDicPSrsGianeN3AnC6coZiaY27lhj52MicuXiaO2fGFD7tSZ67NDFWS0wNyPfzpibweiag/0?wx_fmt=png)
+  
+  ![](http://7xp8y1.com1.z0.glb.clouddn.com%20/types.png)
   
   如果是公司注册，还会需要营业执照等资质文件，对公账户等等信息，按要求一步一步操作便是。
  
 2. 公众号名称和介绍等内容的设置（尤其是公众号**名称**设定后就不能更改，所以，**先想好。**）
-
-  ![](https://mmbiz.qlogo.cn/mmbiz/4C6k8vspyvzMUPVmOwvSfyeDicPSrsGianD5Q5lt7eiaCvxzt9yge6W5LldnENpxBYJYibuttnWpn3na60CddPEmMw/0?wx_fmt=png)
+  
+  ![](http://7xp8y1.com1.z0.glb.clouddn.com%20/publicsettings.png)
 
   以上的设置详细介绍：
   
