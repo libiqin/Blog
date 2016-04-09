@@ -139,9 +139,11 @@ image:
 
 拿我自己来说，已经从原来文章命名的标题党，变得更为低调。参考原来的标题，彼时写在了 QQ 空间，其实阅读量也非常低，但标题确实浮夸 ==。
 
-   ![](https://mmbiz.qlogo.cn/mmbiz/4C6k8vspyvzMUPVmOwvSfyeDicPSrsGianJU0y6NcVXe5z6KofbmOewiaZ75r4buXAibcjDxjGeyNicWgldToxvt6cg/0?wx_fmt=jpeg)
-
-   > 最后:「完结篇：一波三折 存疑千里走单骑 不破深圳终不还」
+   > 第一虚名赢面试 棱角分明难自欺
+   > 信心满怀剑走偏锋 大意失长沙
+   > 完结篇：一波三折 存疑千里走单骑 不破深圳终不还
+   
+   如此种种。
 
 14-15年间，为 Lean In SZ 写文，标题类似于这样：
 
