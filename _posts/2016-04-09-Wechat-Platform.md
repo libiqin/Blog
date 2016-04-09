@@ -1,12 +1,12 @@
 ---
 layout: post  
-title:     Voice Out: 公众号的发声之道
+title:     Voice Out：公众号的发声之道
 description:     一些探索和尝试
 category: [blog, ]  
 tags: [Views, ]  
 image:
   feature: map.jpg
-  credit: 
+  credit:   
   creditlink:   
 ---
 
