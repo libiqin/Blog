@@ -359,7 +359,7 @@ Can't help with that, I'm sorry.
 ### References
 
 * [微信营销教程：微信公众平台运营的21个小技巧和8个推广手法](http://www.nyy666.com/page-3-s7qO69oPsa.html)
-* [转载如何运营一个微信公众号，及最实用工具汇总 | 创业者园地小组 果壳网 科技有意思](http://www.guokr.com/post/681624/)
+* [转载如何运营一个微信公众号，及最实用工具汇总 创业者园地小组 果壳网 科技有意思](http://www.guokr.com/post/681624/)
 * [【干货】如何运营微信公众平台-卢松松博客](http://lusongsong.com/reed/900.html)
 * [如何运营出一个有吸引力的微信公众号？ - 微信公众帐号 - 知乎](https://www.zhihu.com/question/27751352)
 * [关于微信公众号运营，有哪些值得分享的经验或技巧？ - 微信公众帐号 - 知乎](http://www.zhihu.com/question/22743118)
