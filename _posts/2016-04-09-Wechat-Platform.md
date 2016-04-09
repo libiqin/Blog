@@ -37,15 +37,13 @@ image:
 
 1. 点击链接 [立即注册微信公众号](https://mp.weixin.qq.com/)。 按步骤进行吧，只是注意「类型选择」中，个人一般会选择「订阅号」。公司的话，如果是提供资讯类，常发图文消息，选择「订阅号」，消息发布后，进入读者微信里的「订阅消息」，不单独提示。选择服务号，一个月四条消息，群发消息时，用户会收到消息提示。如下是官方网站上几种类型的区别。
   
-  ![](http://7xp8y1.com1.z0.glb.clouddn.com%20/types.png)
+  ![](http://7xp8y1.com1.z0.glb.clouddn.com/types1.png)
   
   如果是公司注册，还会需要营业执照等资质文件，对公账户等等信息，按要求一步一步操作便是。
  
 2. 公众号名称和介绍等内容的设置（尤其是公众号**名称**设定后就不能更改，所以，**先想好。**）
-  
-  ![](http://7xp8y1.com1.z0.glb.clouddn.com%20/publicsettings.png)
 
-  以上的设置详细介绍：
+  设置详细介绍：
   
   * 「头像」这里，公司而言，很简单，用公司 Logo。如果是个人号，懂设计，可以自己做图，或是挑选你很喜欢的图片。这叫做**「Visual Identity」，一套视觉识别系统**，让你区别于其余公众号。
   * 「二维码」部分，是自动生成的一张「头像」居于正中间的一个二维码图片，这里有不同尺寸，可以适用于各类场景，如果只为日常自己宣传或是置于文末让人关注，下载最小的 size 就好。大的尺寸，可以制作宣传海报、易拉宝等。
@@ -137,10 +135,12 @@ image:
 
 信息严重过载的世界里，每个人注意力有限，一眼扫过标题，会不会被吸引，直接影响之后的系列动作。如果你的过往文章，让人家相信你的每篇出品皆是质量上乘、价值非凡、错过会遗憾，那又另说。
 
-拿我自己来说，已经从原来文章命名的标题党，变得更为低调。参考原来的标题，彼时写在了 QQ 空间，其实阅读量也非常低，但标题确实浮夸 ==。
+拿我自己来说，已经从原来文章命名的标题党，变得更为低调。参考 13 年写找工作经历的标题，彼时写在了 QQ 空间，其实阅读量也非常低，但标题确实浮夸 ==。比如：
 
    > 第一虚名赢面试 棱角分明难自欺
+   
    > 信心满怀剑走偏锋 大意失长沙
+   
    > 完结篇：一波三折 存疑千里走单骑 不破深圳终不还
    
    如此种种。
@@ -235,7 +235,7 @@ Can't help with that, I'm sorry.
 
 后台「管理」项目下，「素材管理」一项中：
 
-![](https://mmbiz.qlogo.cn/mmbiz/4C6k8vspyvzMUPVmOwvSfyeDicPSrsGianbicg0mAVGyPr8hgTTGOm1xeZXTt7R8UUYpiarbuSm5WavHTVzvjaGQpQ/0?wx_fmt=jpeg)
+![](http://7xp8y1.com1.z0.glb.clouddn.com/materials.jpeg)
 
 新建图文消息，便是在图文消息下，按步骤进去，看到编辑栏，做出相应操作便好。文章可插入图片、音频、视频等等，都只需点击相应按钮，还是很方便的。文中插入的这些素材，随后你在上图的这部分里相应项目下也可以看到。文章编辑完毕，点击「保存并群发」，读者就可以在他们手机上收到啦。
 
@@ -249,7 +249,7 @@ Can't help with that, I'm sorry.
 
 自主设置以后，会有以下变化：
 
-![](https://mmbiz.qlogo.cn/mmbiz/4C6k8vspyvzMUPVmOwvSfyeDicPSrsGianUpdZrVbf496ib6ScTebozUmj800BibeacPPAtb5cPLULqn0PWSDwbVEA/0?wx_fmt=jpeg)
+![](http://7xp8y1.com1.z0.glb.clouddn.com/menu.jpg)
 
 可以看到底部有三个菜单栏「热门文章，线下活动，关于我们」。这些菜单名，是**根据自己的需要，在后台进行编辑的**。
 
@@ -257,7 +257,7 @@ Can't help with that, I'm sorry.
 
 要提醒的是，菜单栏目最多三个，但每个下面可以设子菜单，不超过五个。比如: 
 
-![](https://mmbiz.qlogo.cn/mmbiz/4C6k8vspyvzMUPVmOwvSfyeDicPSrsGianr3zS1nk9k4fNAmfCVZOa1xFoGEiaLZ5xhZMYazrEsgT6vd6wBGicn3YA/0?wx_fmt=jpeg)
+![](http://7xp8y1.com1.z0.glb.clouddn.com/submenu.jpg)
 
 在公众号设置菜单，有助于传达于你而言最重要的信息，也能够帮助他人快速找到相应内容。是一个很友好的举措。
 
@@ -269,7 +269,7 @@ Can't help with that, I'm sorry.
 
 「功能」项目下，「自动回复」：
 
-![](https://mmbiz.qlogo.cn/mmbiz/4C6k8vspyvzMUPVmOwvSfyeDicPSrsGianN9wA2sBqhYltkX8kDM7Uq8VQ1gW5kNicy5jYNasicfYMABmmEE0OIb1g/0?wx_fmt=jpeg)
+![](http://7xp8y1.com1.z0.glb.clouddn.com/autorpl.jpg)
 
 * 添加「不在他方」的时候，自动跳出来的**「被添加自动回复」**是文字
 
@@ -299,7 +299,7 @@ Can't help with that, I'm sorry.
 
 文章的阅读数量，点赞量，这是在每篇图文页末尾直接能够看到的。微信公众号后台，则有更多的数据可供挖掘。
 
-![](https://mmbiz.qlogo.cn/mmbiz/4C6k8vspyvzMUPVmOwvSfyeDicPSrsGianaNOj1ibuV4APy7jGu0xD2hX1DlCRb5ksC2OicV01FyicNnAVuDvnLlDvQ/0?wx_fmt=png)
+![](http://7xp8y1.com1.z0.glb.clouddn.com/statistics.png)
 
 看吧。
 
@@ -312,9 +312,9 @@ Can't help with that, I'm sorry.
 
    * 阅读数和分享数
    
-   ![](https://mmbiz.qlogo.cn/mmbiz/4C6k8vspyvzMUPVmOwvSfyeDicPSrsGianeJuyAGC92Un8c7MdGia6C7Ghvg9YuJnJWgj8VRfMBPkjgUEezAJSXRg/0?wx_fmt=jpeg)
+   ![](http://7xp8y1.com1.z0.glb.clouddn.com/read.jpeg)
    
-   ![](https://mmbiz.qlogo.cn/mmbiz/4C6k8vspyvzMUPVmOwvSfyeDicPSrsGianHwpFp4NGWT595TQ3iaRY8zt31TLG36wmfpAiagA3k6HzbGibEpvVskvWQ/0?wx_fmt=jpeg)
+   ![](http://7xp8y1.com1.z0.glb.clouddn.com/dayandhour.jpeg)
    
    这样的分类统计，单篇图文，全部图文，日报，小时报等等，让你能够很直观地看到哪些文章受欢迎，哪些时段里大家看文章比较多，以后也便能有意识地调整。
    
