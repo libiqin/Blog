@@ -5,8 +5,8 @@ title: History
 tagline:  由来&最初 
 image:
   feature: sea.jpg  
-  credit:  
-  creditlink:  
+  credit:  Azeril
+  creditlink: http://azeril.me
 ---
 
 * 150706 购置域名 biqin.me
