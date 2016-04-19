@@ -30,3 +30,4 @@ image:
 * 150908 新增博客标签页
 * 151001 修改外观，字体及 Blog 标题显示效果
 * 160108 修复 Blog icon 显示
+* 160419 为 Blog 添加 Google Analytics 工具
