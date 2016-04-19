@@ -116,7 +116,7 @@ image:
 		
 （2）艾宾浩斯复习表格，实时监控你的学习流程
 
-![](https://mmbiz.qlogo.cn/mmbiz/4C6k8vspyvwtGKOwMHicibQnQI1ykTkg7PricvOdrkrzmVc5r7yGtFDIDspDlfCx7RkI42mJicp2naKywPKnJYDuhQ/0?wx_fmt=jpeg)
+![](http://7xp8y1.com1.z0.glb.clouddn.com/WeChat_1461068487.jpeg)
 
 ### 2.2 攻克变速纯正播讲类材料（中级）
 
