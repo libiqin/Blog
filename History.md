@@ -13,7 +13,7 @@ image:
 * 150815 
   * Blog v1.0 部署并发布
   * 发布第一篇博文 About Language
-* 150816 Blog 定名 Word Wordld 琴之音
+* 150816 Blog 定名 Word World 琴之音
 * 150819 交付初版博客
 * 150820 Blog v2.0 迭代
   * 初步设定完毕
