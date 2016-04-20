@@ -7,7 +7,7 @@ tags: [Books, ]
 image:
   feature: myanmar.jpg
   credit:   Azeril
-  creditlink:   Azeril.me
+  creditlink:   http://azeril.me
 ---
 
 虽然是英文系学生，读的英文原著却少。说起来，总是觉得不应该的。读完了「把你的英语用起来」，再要自由选书时，想起来这本有些特殊意味的「I am the Messenger」。开始着手读起来，严格按照「英语」那本书里说的，每天 10% 「at least」。今天是开始读的第六天，算是提前完成，但这速度，其实说不上理想。
