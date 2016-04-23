@@ -95,8 +95,11 @@ Angel 循声而出，却再也看不见母亲和车的踪影，悲伤难过之�
 
 	—— Did you know that always somewhere out there, there is a new wonder to be seen/ 你知道吗，世界上总有些地方，有些奇迹等待我们去发现？ —— Star Man
 	
-	—— It means a lot to me，you showing me the stars. 你带我看星星 这对我来说意义非凡。 —— Angel
-	—— It means a lot to me，you wanting to see them. 你愿意看到它们，这对我来说意义非凡。—— Star Man
+	—— It means a lot to me，you showing me the stars. 
+	你带我看星星 这对我来说意义非凡。 —— Angel
+	
+	—— It means a lot to me，you wanting to see them. 
+	你愿意看到它们，这对我来说意义非凡。—— Star Man
 	   
 Star Man 也开始不出现。让 Angel 觉得深深惶恐，自己做错了什么？他也离开自己了吗？父亲却在此时毫无预兆地出现，要带她走，甚至让她带上老祖母的养老金。她犹豫了。之前那么渴望父爱，想要父亲回家，现在，却选择了留下，继续在这个农场陪着老人生活。
 
@@ -147,7 +150,7 @@ Grandma，彼时执拗，没去医院看望最后一眼，葬礼过后，却是�
 	
 —— 点击可见 [Choose Something Like a Star by Robert Frost](http://writersalmanac.publicradio.org/index.php?date=2014/09/12) 
 
-「无参照, 徒手译诗 只译了一部分...」
+「无参照, 徒手译诗 只译了一部分...前面没注明出处的地方，也是徒手翻...」
 
 哦，星星，高高挂在遥远的天际，黑暗衬出它的光明。
 但是，星星啊，你别寂静无言，和我们说些什么吧，用我们能够听懂的语言。告诉我们，你由哪些物质组成，这可能对我们没什么帮助，却也能够说明些什么。
