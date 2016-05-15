@@ -3,7 +3,7 @@ layout: post
 title:     你是我心内的一首歌
 description:     想把我唱给你听，不管结局会如何。
 category: [blog, ]  
-tags: [Views, ]  
+tags: [Memo, ]  
 image:
   feature: wallhaven.jpg
   credit:   Azeril
