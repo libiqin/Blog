@@ -139,8 +139,8 @@ image:
 
 看到了朋友一副才完成不久，还不及装帧的画作。
 
-![](http://7xp8y1.com1.z0.glb.clouddn.com/Stardust.jpg)
 <center>世间安得双全法，不负如来不负卿。</center>
+![](http://7xp8y1.com1.z0.glb.clouddn.com/Stardust.jpg)
 
 笔触非常细腻，倒不像是油画了。具体什么派别，也没有细问。那闪闪发光的物质，我问他，那是星吗？
 
