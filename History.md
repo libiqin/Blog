@@ -31,3 +31,4 @@ image:
 * 151001 修改外观，字体及 Blog 标题显示效果
 * 160108 修复 Blog icon 显示
 * 160419 为 Blog 添加 Google Analytics 工具
+* 160601 Blog 由 biqin.me 调整到 biqin.li，因为有人说这样就完全变成我自己的。
