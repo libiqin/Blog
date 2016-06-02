@@ -1,6 +1,6 @@
 # Words Worlds 琴韵小筑
 
-This is a blog designed for Rebecca. The blog is live at [biqin.me](http://biqin.me/). 
+This is a blog designed for Rebecca. The blog is live at somewhere, nowhere & everywhere. 
 
 ## Tools used
 
