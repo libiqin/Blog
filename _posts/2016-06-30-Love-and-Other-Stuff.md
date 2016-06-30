@@ -1,5 +1,3 @@
-# 2016-06-20-Love-and-Other-Stuff
-
 ---
 layout: post  
 title:     我可能不会爱你
