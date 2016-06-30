@@ -7,7 +7,7 @@ description:     若再遇见，该如何致意？以微笑，以眼泪，以沉
 category: [blog, ]  
 tags: [Stories, ]  
 image:
-  feature: Dolphin.jpg
+  feature: wallhaven.jpg
   credit:    Azeril
   creditlink:   http://azeril.me
 ---
